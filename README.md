@@ -13,8 +13,3 @@ The compilation of all the code an drelated files from MI-Lab UE19CS305 (of batc
 
     where PES0UG00CS000 is the current file name in the repo for all the week code, change it accordingly
 
-## Note
-
-* Although most of the code is written independently, some weeks code are taken from others, feel free to let me know for credits if due.
-
-* Some of the code is written with the help of the internet and co-pilot, so the accuracy can't be guaranteed for all edge cases.
